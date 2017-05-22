@@ -53,8 +53,8 @@ $GoogleCapcay->SecretKey('Disini Secret Keynya')
         ->Verified();
 ```
 
-itu aja deh, terima bata, sama cendol aja deh.
+itu aja deh, terima bata, sama cendol aja deh gan :D.
 
-tolong di support yaa.., biar bisa pengembangan ke depannya.
+tolong di support ya gan.., biar bisa pengembangan ke depannya.
 
 ntar niatnya juga bakalan masukin buat nambahin form HTML nya.
