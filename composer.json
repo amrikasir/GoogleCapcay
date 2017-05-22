@@ -2,7 +2,7 @@
   "name": "amrikasir/googlecapcay",
   "type":"library",
   "description": "PHP Library untuk verifikasi Google Captcha v2.0",
-  "keywords": ["captcha", "google"],
+  "keywords": ["captcha", "google", "recaptcha", "capcay"],
   "license": "GPL-3.0",
   "authors": [
     {

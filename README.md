@@ -1,5 +1,5 @@
-# GoogleCapcay
-**Google Capcay** merupakan PHP Library untuk verfikasi Google Captcha.
+# Google Capcay
+**Google Capcay** merupakan PHP Library untuk verfikasi Google reCaptcha.
 Berikut cara penggunaan **Google Capcay**
 
 Install dulu dari composer:
